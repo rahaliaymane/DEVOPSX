@@ -27,3 +27,5 @@ def modulo(a, b):
     if b == 0:
         raise ValueError("Modulo par zéro impossible!")
     return a % b
+
+print("Hello from the new branch!")
